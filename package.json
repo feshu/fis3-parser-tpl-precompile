@@ -1,0 +1,33 @@
+{
+  "name": "fis3-parser-tpl-precompile",
+  "version": "1.0.0",
+  "description": "fis3 plugin for pre-compiling javascript templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feshu/fis3-parser-tpl-precompile.git"
+  },
+  "keywords": [
+    "fis3",
+    "parser",
+    "precompile",
+    "template"
+  ],
+  "author": {
+    "name": "feshu"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feshu/fis3-parser-tpl-precompile/issues"
+  },
+  "homepage": "https://github.com/feshu/fis3-parser-tpl-precompile#readme",
+  "readme": "# fis3-parser-tpl-precompile\r\nfis3 plugin for pre-compiling javascript templates\r\n",
+  "readmeFilename": "README.md",
+  "gitHead": "e7b2a17448ec52f5491da607f1b2921f939f436f",
+  "_id": "fis3-parser-tpl-precompile@1.0.0",
+  "_shasum": "9fd195a156f5e1cebd3091e95450359bb50e69eb",
+  "_from": "fis3-parser-tpl-precompile@latest"
+}
