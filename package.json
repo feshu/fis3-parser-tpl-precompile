@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-tpl-precompile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fis3 plugin for pre-compiling javascript templates",
   "main": "index.js",
   "scripts": {
