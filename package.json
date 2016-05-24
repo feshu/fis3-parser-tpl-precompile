@@ -29,5 +29,9 @@
   "gitHead": "e7b2a17448ec52f5491da607f1b2921f939f436f",
   "_id": "fis3-parser-tpl-precompile@1.0.0",
   "_shasum": "9fd195a156f5e1cebd3091e95450359bb50e69eb",
-  "_from": "fis3-parser-tpl-precompile@latest"
+  "_from": "fis3-parser-tpl-precompile@latest",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "underscore": "^1.8.3"
+  }
 }
